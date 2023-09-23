@@ -1,0 +1,2 @@
+# for_docker_apt_install
+dockerの環境構築用自動スクリプト:bashscript
